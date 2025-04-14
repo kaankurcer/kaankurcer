@@ -2,8 +2,8 @@
 <div align="center">
   <p>Graduated from <a href="https://w3.cs.bilkent.edu.tr/tr/">Bilkent University Computer Science</a> faculty in 2023.</p>
   <p>Currently working as a Software Developer in <a href="https://technarts.com">TechNarts</a>.</p>
-  <p>Been working as a Full Stack developer for a year using Django + React stack.</p>
-  <p>Working on specializing as a Front End developer with React.</p>
+  <p>I've worked as a Full Stack developer for a year using Django + React stack.</p>
+  <p>Currently working as a Front End developer using React.</p>
 </div>
 
 <p align="center">
